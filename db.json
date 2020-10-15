@@ -1,0 +1,23 @@
+{
+"products" : 
+[{"id":1,"name":"Grant's gazelle","category":"Indigo"},
+{"id":2,"name":"Magnificent frigate bird","category":"Yellow"},
+{"id":3,"name":"Stork, saddle-billed","category":"Goldenrod"},
+{"id":4,"name":"Steller sea lion","category":"Fuscia"},
+{"id":5,"name":"Shrike, common boubou","category":"Puce"},
+{"id":6,"name":"Vicuna","category":"Maroon"},
+{"id":7,"name":"Canada goose","category":"Puce"},
+{"id":8,"name":"Greater kudu","category":"Pink"},
+{"id":9,"name":"Alpaca","category":"Turquoise"},
+{"id":10,"name":"Pie, indian tree","category":"Turquoise"},
+{"id":11,"name":"Sunbird, lesser double-collared","category":"Goldenrod"},
+{"id":12,"name":"Constrictor, eastern boa","category":"Maroon"},
+{"id":13,"name":"Ornate rock dragon","category":"Pink"},
+{"id":14,"name":"Armadillo, giant","category":"Red"},
+{"id":15,"name":"Waterbuck, common","category":"Violet"},
+{"id":16,"name":"Tarantula","category":"Maroon"},
+{"id":17,"name":"Genoveva","category":"Khaki"},
+{"id":18,"name":"Crested screamer","category":"Maroon"},
+{"id":19,"name":"Tropical buckeye butterfly","category":"Blue"},
+{"id":20,"name":"Pallas's fish eagle","category":"Violet"}]
+}
